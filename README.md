@@ -1,2 +1,2 @@
 # MrSo
-Student
+Google CodeJam Solutions
